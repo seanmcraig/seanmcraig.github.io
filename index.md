@@ -1,2 +1,1 @@
-# Hello World!
-This site is powered by GitHub Pages.
+I am a doctoral candidate in political science at the <a href="https://polisci.pitt.edu">University of Pittsburgh</a>, where I specialize in American politics and research methodology. My dissertation-in-progress considers the mechanics and consequences of institutional legitimacy in local US courts. My other research interests include judicial elections, litigation, and public opinion. You can view my CV <a href="./cv.md">here</a>.
