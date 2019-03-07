@@ -1,5 +1,5 @@
 <nav id="navigation">
-  <a href="./vita.md">CV</a>
+  <a href="./cv.html">CV</a>
   <span>|</span>
   <a href="./data.html">Data</a>
   <span>|</span>
