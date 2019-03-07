@@ -2,3 +2,41 @@
 ---
 
 @import "{{ site.theme }}";
+
+nav {
+  position: relative;
+  top: 0;
+  height: 50px;
+  width: 100%;
+  background-color: white;
+}
+
+nav a, nav span{
+  position: relative;
+  top: 10px;
+  padding: 6px;
+  font-size: 24px;
+}
+
+nav a:link, nav a:visited {
+  background-color: white;
+  color: black;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav a:hover {
+  background-color: black;
+  color: white;
+  font-weight: bold;
+  text-decoration: none;
+}
+
+nav a:hover img {
+  filter: invert(100%)
+}
+
+nav img {
+  position: relative;
+  height: 24px;
+}
