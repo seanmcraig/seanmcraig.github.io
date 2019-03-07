@@ -4,6 +4,7 @@
   <a href="./data.html">Data</a>
   <span>|</span>
   <a href="https://www.github.com/seanmcraig", target="_blank">GitHub</a>
+  <span>|</span>
   <a href="./resources">Resources</a>
 </nav>
 
