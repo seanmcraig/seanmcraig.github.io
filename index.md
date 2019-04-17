@@ -1,9 +1,9 @@
 <nav id="navigation">
   <a href="https://github.com/seanmcraig/vita/blob/master/latex/vita.pdf">CV</a>
   <span>|</span>
-  <a href="./data.md">Data</a>
+  <a href="./data.html">Data</a>
   <span>|</span>
-  <a href="./resources.md">Resources</a>
+  <a href="./resources.html">Resources</a>
 </nav>
 
 I am a doctoral candidate in political science at the <a href="https://polisci.pitt.edu">University of Pittsburgh</a>, where I specialize in American politics and research methodology. Additionally, I hold a JD from Washington University in St. Louis. My dissertation-in-progress considers the mechanics and consequences of institutional legitimacy in local US courts. My other research interests include judicial elections, litigation, and public opinion. 
