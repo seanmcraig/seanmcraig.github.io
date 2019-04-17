@@ -1,9 +1,9 @@
 <nav id="navigation">
-  <a href="https://seanmcraig.github.io">Home</a>
-  <span>|</span>
   <a href="https://github.com/seanmcraig/vita/blob/master/latex/vita.pdf">CV</a>
   <span>|</span>
   <a href="./data.html">Data</a>
+  <span>|</span>
+  <a href="/resources.htm">Resources</a>
 </nav>
 
 #### Intro to R for Empirical Research
