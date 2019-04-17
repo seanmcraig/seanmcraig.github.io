@@ -6,9 +6,11 @@
   <a href="./data.html">Data</a>
 </nav>
 
-I maintain a sequence of R lessons aimed at undegraduates in political science and based on materials I use in the classroom. Graduate students who are completely new to R may also find them useful. 
+#### Intro to R for Empirical Research
 
-You can access the lessons and accompanying data by cloning or downloading the <a href="">this Github repository</a>.
+I maintain a sequence of R lessons aimed at undegraduates in political science (and related fields) and based on materials I use in the classroom. Graduate students who are completely new to R may also find the resources useful. 
+
+You can access the lessons, R scripts, and data by cloning or downloading <a href="">this Github repository</a>.
 
 #### R Packages
 I have several R packages in casual development. See the package README files for installation instructions.
