@@ -1,7 +1,7 @@
 <nav id="navigation">
   <a href="https://seanmcraig.github.io">Home</a>
   <span>|</span>
-  <a href="https://github.com/seanmcraig/vita/latex/vita.pdf">CV</a>
+  <a href="https://github.com/seanmcraig/vita/blob/master/latex/vita.pdf">CV</a>
   <span>|</span>
   <a href="./data.html">Data</a>
 </nav>
