@@ -1,9 +1,9 @@
 <nav id="navigation">
-  <a href="./index.md">Home</a>
+  <a href="https://seanmcraig.github.io">Home</a>
   <span>|</span>
   <a href="https://github.com/seanmcraig/vita/latex/vita.pdf">CV</a>
   <span>|</span>
-  <a href="./data.md">Data</a>
+  <a href="./data.html">Data</a>
 </nav>
 
 I maintain a sequence of R lessons aimed at undegraduates in political science and based on materials I use in the classroom. Graduate students who are completely new to R may also find them useful. You can access the lessons and accompanying data by cloning or downloading the <a href="">this Github repository</a>.
