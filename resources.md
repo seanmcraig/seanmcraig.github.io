@@ -6,6 +6,8 @@
   <a href="/resources.htm">Resources</a>
 </nav>
 
+I have collected a selection of my publicly-available materials on this page. In general, I make everything available through my <a href="https://github.com/seanmcraig">GitHub profile</a>. I post new, experimental, and fun code snippets on my <a href="https://gist.github.com/seanmcraig">GitHub Gist</a> page.
+
 #### Intro to R for Empirical Research
 
 I maintain a sequence of R lessons aimed at undegraduates in political science (and related fields) and based on materials I use in the classroom. Graduate students who are completely new to R may also find the resources useful. 
