@@ -1,9 +1,7 @@
 <nav id="navigation">
-  <a href="https://github.com/seanmcraig/vita/blob/master/latex/vita.pdf">CV</a>
+  <a href="./cv.pdf">CV</a>
   <span>|</span>
-  <a href="./data.html">Data</a>
-  <span>|</span>
-  <a href="/resources.htm">Resources</a>
+  <a href="/resources.html">Resources</a>
 </nav>
 
 I have collected a selection of my publicly-available materials on this page. In general, I make everything available through my <a href="https://github.com/seanmcraig">GitHub profile</a>. I post new, experimental, and fun code snippets on my <a href="https://gist.github.com/seanmcraig">GitHub Gist</a> page.
