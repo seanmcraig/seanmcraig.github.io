@@ -1,5 +1,5 @@
 <nav id="navigation">
-  <a href="https://github.com/seanmcraig/vita/blob/master/latex/vita.pdf">CV</a>
+  <a href="./cv.pdf">CV</a>
   <span>|</span>
   <a href="./resources.html">Resources</a>
 </nav>
@@ -8,7 +8,7 @@ I am Adjunct Professor of Political Science at La Roche University and a doctora
 
 As a teacher, my portfolio includes courses covering American political institutions, national and state-level, and data analysis using <a href="https://cran.r-project.org">R</a>. I also frequently advise undegraduates who are preparing for law school.
 
-<a href="https://github.com/seanmcraig/vita/blob/master/latex/vita.pdf">View my full CV</a>
+<a href="./cv.pdf">View my full CV</a>
 
 <h2>Articles</h1>
 
