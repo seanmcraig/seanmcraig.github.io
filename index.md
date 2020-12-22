@@ -8,9 +8,11 @@ I am Adjunct Professor of Political Science at La Roche University and a doctora
 
 As a teacher, my portfolio includes courses covering American political institutions, national and state-level, and data analysis using <a href="https://cran.r-project.org">R</a>. I also frequently advise undegraduates who are preparing for law school.
 
+I have resources for learning R available on the <a href="./resources.html">Resources</a> page.
+
 <a href="./cv.pdf">View my full CV</a>
 
-<h2>Articles</h1>
+<h2>Articles</h2>
 
 <ul>
 <li> "<a href="https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=6045&context=law_lawreview">Juvenile Life Without Parole Post-Miller: The Long, Treacherous Road Towards a Categorical Rule</a>." 2013. Washington University Law Review.
