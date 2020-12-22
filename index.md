@@ -12,7 +12,7 @@ I have resources for learning R available on the <a href="./resources.html">Reso
 
 <a href="./cv.pdf">View my full CV</a>
 
-<h2>Articles</h2>
+#### Articles
 
 <ul>
 <li> "<a href="https://openscholarship.wustl.edu/cgi/viewcontent.cgi?article=6045&context=law_lawreview">Juvenile Life Without Parole Post-Miller: The Long, Treacherous Road Towards a Categorical Rule</a>." 2013. Washington University Law Review.
