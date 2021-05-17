@@ -1,5 +1,5 @@
 <nav id="navigation">
-  <a href="./cv.pdf">CV</a>
+  <a href="./vita.pdf">CV</a>
   <span>|</span>
   <a href="./resources.html">Resources</a>
 </nav>
@@ -10,7 +10,7 @@ As a teacher, my portfolio includes courses covering American political institut
 
 I have resources for learning R available on the <a href="./resources.html">Resources</a> page.
 
-<a href="./cv.pdf">View my full CV</a>
+<a href="./vita.pdf">View my full CV</a>
 
 #### Articles
 
