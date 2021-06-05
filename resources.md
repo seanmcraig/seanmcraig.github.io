@@ -14,9 +14,9 @@ You can access the lessons, R scripts, and data by cloning or downloading <a hre
 
 #### R Packages
 I have several R packages in casual development. See the package README files for installation instructions.
-
-* <a href="https://github.com/seanmcraig/scfunctions">scfunctions</a>: An package collecting my useful and/or amusing R functions.
-* <a href="https://github.com/seanmcraig/stata2r">stata2R</a>: An R package that translates some Stata code into functional R code. Potentially useful as a learning tool.
+* <a href="https://github.com/seanmcraig/autoR">autoR</a>: Collection of functions for speeding up common data analysis tasks.
+* <a href="https://github.com/seanmcraig/scfunctions">scfunctions</a>: Collection of esoteric and/or amusing R functions.
+* <a href="https://github.com/seanmcraig/stata2r">stata2R</a>: Translates some Stata code into functional R code. Potentially useful as a learning tool. (Highly experimental)
 
 
 #### Linux Resources
